@@ -1,0 +1,5 @@
+active_level_30d,users,churners,churn_rate_pct,avg_active_days_30d,avg_listen_minutes_30d,avg_playlist_adds_30d
+inactive,5882,4543.0,77.24,0.0,0.0,0.0
+low,15070,10041.0,66.63,1.9,8.6,0.06
+medium,18135,7933.0,43.74,6.47,35.3,0.33
+high,10913,1262.0,11.56,16.1,106.1,1.58

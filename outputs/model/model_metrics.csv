@@ -1,0 +1,5 @@
+model,split,roc_auc,pr_auc
+logistic_regression,validation,0.78709076944198,0.7405855396280185
+logistic_regression,test,0.792142640169004,0.7474659069649583
+random_forest_benchmark,validation,0.785756171176286,0.7353836003236794
+random_forest_benchmark,test,0.7891169145850696,0.7429012048220264

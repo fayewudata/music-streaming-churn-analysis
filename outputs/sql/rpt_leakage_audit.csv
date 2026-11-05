@@ -1,0 +1,4 @@
+trial_timing,users,flagged_in_feature_table,flagged_in_rebuild,churn_rate_pct
+no trial,36590,0.0,0.0,50.91
+first trial before snapshot,12921,12921.0,12921.0,38.43
+first trial AFTER snapshot (leak),489,489.0,0.0,38.04

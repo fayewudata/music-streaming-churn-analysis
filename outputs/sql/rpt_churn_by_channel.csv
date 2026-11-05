@@ -1,0 +1,8 @@
+acquisition_channel,users,churners,churn_rate_pct,user_share_pct,churner_share_pct,overrepresentation
+paid_social,8993,5417.0,60.24,17.99,22.78,1.27
+student_partner,3975,1874.0,47.14,7.95,7.88,0.99
+email_campaign,2023,948.0,46.86,4.05,3.99,0.99
+app_store,12534,5859.0,46.74,25.07,24.64,0.98
+organic_search,11944,5491.0,45.97,23.89,23.09,0.97
+influencer,4036,1845.0,45.71,8.07,7.76,0.96
+referral,6495,2345.0,36.1,12.99,9.86,0.76

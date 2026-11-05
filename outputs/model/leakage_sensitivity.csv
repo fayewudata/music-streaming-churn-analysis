@@ -1,0 +1,3 @@
+trial_flag,test_roc_auc
+rebuilt (pre-snapshot only),0.792142640169004
+original (includes post-snapshot trials),0.7921442840838888

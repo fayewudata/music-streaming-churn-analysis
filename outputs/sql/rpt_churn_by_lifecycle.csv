@@ -1,0 +1,7 @@
+lifecycle_stage,users,churners,churn_rate_pct,user_share_pct,churner_share_pct,overrepresentation
+casual_free,17912,11631.0,64.93,35.82,48.91,1.37
+inactive,4502,3638.0,80.81,9.0,15.3,1.7
+premium_at_risk,5439,3128.0,57.51,10.88,13.15,1.21
+premium_engaged,13306,2862.0,21.51,26.61,12.04,0.45
+engaged_free,7592,1939.0,25.54,15.18,8.15,0.54
+trial_user,1249,581.0,46.52,2.5,2.44,0.98

@@ -1,0 +1,7 @@
+scope,test_weeks,users_per_arm,detectable_lift_pct_points
+paywall_trials_only,8,100,18.57440202125855
+paywall_trials_only,12,150,15.36807322131557
+paywall_trials_only,26,326,10.59701754866355
+all_trial_starters,8,678,7.509610251572997
+all_trial_starters,12,1018,6.1430419794191335
+all_trial_starters,26,2206,4.185314457605824
