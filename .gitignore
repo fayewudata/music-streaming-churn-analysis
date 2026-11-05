@@ -1,9 +1,9 @@
-  # Raw data (large, not redistributed)
-  data/*.csv
+# Raw data (large, not redistributed)
+data/*.csv
 
-  # Local database and caches
-  *.duckdb
-  *.duckdb.wal
-  __pycache__/
-  .ipynb_checkpoints/
-  .DS_Store
+# Local database and caches
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
